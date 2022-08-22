@@ -1,7 +1,7 @@
 
 # QWERTY UK Mac Keyboard Layout for WIndows
 
-This installs a keyboard layout in Windows that aligns with the Mac Keyboard layout in the United Kingdom. This includes Option+2 for € and Option+3 for #
+This installs a keyboard layout in Windows that aligns with the Mac Keyboard layout in the United Kingdom. This includes Option+2 for € and Option+3 for #.
 
 The installer was created using Microsoft Keyboard Layout Creator, and has been tested using a Logitech MX Keys for Mac. Your mileage may vary.
 
