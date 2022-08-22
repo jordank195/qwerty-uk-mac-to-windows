@@ -24,8 +24,8 @@ The installer was created using Microsoft Keyboard Layout Creator, and has been 
 
 ## Acknowledgements
 
- - [Microsoft Layout Creator](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Addictive Tips: How to install a custom keyboard layout](https://github.com/matiassingers/awesome-readme)
+ - [Microsoft Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+ - [Addictive Tips: How to install a custom keyboard layout](https://www.addictivetips.com/windows-tips/install-custom-keyboard-windows-10/) - I've copied their how-to above.
  
 
 
